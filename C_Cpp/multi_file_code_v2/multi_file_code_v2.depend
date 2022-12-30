@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1672411917 source:d:\github-stuff\random_lerning_programs\c_cpp\multi_file_code_v2\my_stringlib_atempt.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1672412046 source:d:\github-stuff\random_lerning_programs\c_cpp\multi_file_code_v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"My_StringLib_atempt.h"
+
+1672412001 d:\github-stuff\random_lerning_programs\c_cpp\multi_file_code_v2\my_stringlib_atempt.h
+
